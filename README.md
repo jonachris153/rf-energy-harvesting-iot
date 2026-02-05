@@ -67,7 +67,8 @@ rf-energy-harvesting-iot/
 ✔ Deep-sleep and duty-cycle strategy validated  
 ✔ Energy-autonomous operation demonstrated  
 🔄 Long-term field testing planned
-ℹ️ This prototype focuses on embedded monitoring logic and protection behavior rather than full substation-scale deployment.
+
+This prototype focuses on embedded monitoring logic and protection behavior rather than full substation-scale deployment.
 
 
 
